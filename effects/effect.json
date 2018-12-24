@@ -1,0 +1,11 @@
+{
+	"name"   : "effect",
+	"script" : "effect.py",
+	"args" :
+	{
+		"a_float"   : 20.0,
+		"other"     : [0, 0, 255],
+        "a_int"     : 5,
+        "a_bool"    : false
+	}
+}
